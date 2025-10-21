@@ -1,0 +1,102 @@
+{
+  "site": {
+    "name": "RefurbX",
+    "tagline": "Refurbished laptops van topkwaliteit"
+  },
+  "nav": {
+    "home": "Home",
+    "laptops": "Laptops",
+    "deals": "Deals",
+    "brands": "Merken",
+    "business": "Zakelijk",
+    "service": "Service",
+    "about": "Over ons",
+    "contact": "Contact",
+    "account": "Mijn account",
+    "cart": "Winkelwagen",
+    "login": "Inloggen",
+    "logout": "Uitloggen"
+  },
+  "product": {
+    "condition": "Staat",
+    "cpu": "Processor",
+    "ram": "Geheugen",
+    "storage": "Opslag",
+    "screen": "Scherm",
+    "battery": "Batterij",
+    "specs": "Specificaties",
+    "addToCart": "In winkelwagen",
+    "outOfStock": "Niet op voorraad",
+    "inStock": "Op voorraad",
+    "warranty": "Garantie",
+    "returns": "Retourbeleid"
+  },
+  "cart": {
+    "title": "Winkelwagen",
+    "empty": "Je winkelwagen is leeg",
+    "subtotal": "Subtotaal",
+    "vat": "BTW",
+    "shipping": "Verzending",
+    "total": "Totaal",
+    "checkout": "Afrekenen",
+    "continueShopping": "Verder winkelen",
+    "remove": "Verwijderen",
+    "quantity": "Aantal"
+  },
+  "checkout": {
+    "title": "Afrekenen",
+    "shippingAddress": "Verzendadres",
+    "billingAddress": "Factuuradres",
+    "paymentMethod": "Betaalmethode",
+    "orderSummary": "Besteloverzicht",
+    "placeOrder": "Bestelling plaatsen",
+    "processing": "Verwerken..."
+  },
+  "account": {
+    "title": "Mijn account",
+    "orders": "Bestellingen",
+    "addresses": "Adressen",
+    "profile": "Profiel",
+    "settings": "Instellingen"
+  },
+  "footer": {
+    "company": "Bedrijf",
+    "support": "Support",
+    "legal": "Juridisch",
+    "followUs": "Volg ons",
+    "newsletter": "Nieuwsbrief",
+    "newsletterText": "Blijf op de hoogte van onze nieuwste deals en producten",
+    "subscribe": "Inschrijven",
+    "copyright": "© 2025 RefurbX. Alle rechten voorbehouden."
+  },
+  "common": {
+    "search": "Zoeken",
+    "filter": "Filteren",
+    "sort": "Sorteren",
+    "loading": "Laden...",
+    "error": "Er is een fout opgetreden",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "close": "Sluiten",
+    "back": "Terug",
+    "next": "Volgende",
+    "previous": "Vorige",
+    "showMore": "Meer tonen",
+    "showLess": "Minder tonen"
+  },
+  "forms": {
+    "firstName": "Voornaam",
+    "lastName": "Achternaam",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "address": "Adres",
+    "city": "Plaats",
+    "postalCode": "Postcode",
+    "country": "Land",
+    "required": "Dit veld is verplicht",
+    "invalidEmail": "Ongeldig e-mailadres",
+    "invalidPhone": "Ongeldig telefoonnummer"
+  }
+}

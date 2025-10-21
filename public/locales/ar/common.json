@@ -1,0 +1,102 @@
+{
+  "site": {
+    "name": "RefurbX",
+    "tagline": "أجهزة كمبيوتر محمولة مجددة بجودة عالية"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "laptops": "أجهزة كمبيوتر محمولة",
+    "deals": "العروض",
+    "brands": "العلامات التجارية",
+    "business": "الأعمال",
+    "service": "الخدمة",
+    "about": "معلومات عنا",
+    "contact": "اتصل بنا",
+    "account": "حسابي",
+    "cart": "عربة التسوق",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج"
+  },
+  "product": {
+    "condition": "الحالة",
+    "cpu": "المعالج",
+    "ram": "الذاكرة",
+    "storage": "التخزين",
+    "screen": "الشاشة",
+    "battery": "البطارية",
+    "specs": "المواصفات",
+    "addToCart": "أضف إلى السلة",
+    "outOfStock": "نفذت الكمية",
+    "inStock": "متوفر",
+    "warranty": "الضمان",
+    "returns": "سياسة الإرجاع"
+  },
+  "cart": {
+    "title": "عربة التسوق",
+    "empty": "عربة التسوق فارغة",
+    "subtotal": "المجموع الفرعي",
+    "vat": "ضريبة القيمة المضافة",
+    "shipping": "الشحن",
+    "total": "الإجمالي",
+    "checkout": "الدفع",
+    "continueShopping": "متابعة التسوق",
+    "remove": "إزالة",
+    "quantity": "الكمية"
+  },
+  "checkout": {
+    "title": "الدفع",
+    "shippingAddress": "عنوان الشحن",
+    "billingAddress": "عنوان الفواتير",
+    "paymentMethod": "طريقة الدفع",
+    "orderSummary": "ملخص الطلب",
+    "placeOrder": "تقديم الطلب",
+    "processing": "جاري المعالجة..."
+  },
+  "account": {
+    "title": "حسابي",
+    "orders": "الطلبات",
+    "addresses": "العناوين",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات"
+  },
+  "footer": {
+    "company": "الشركة",
+    "support": "الدعم",
+    "legal": "القانونية",
+    "followUs": "تابعنا",
+    "newsletter": "النشرة الإخبارية",
+    "newsletterText": "ابق على اطلاع بأحدث عروضنا ومنتجاتنا",
+    "subscribe": "اشترك",
+    "copyright": "© 2025 RefurbX. جميع الحقوق محفوظة."
+  },
+  "common": {
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "showMore": "عرض المزيد",
+    "showLess": "عرض أقل"
+  },
+  "forms": {
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "city": "المدينة",
+    "postalCode": "الرمز البريدي",
+    "country": "البلد",
+    "required": "هذا الحقل مطلوب",
+    "invalidEmail": "عنوان بريد إلكتروني غير صالح",
+    "invalidPhone": "رقم هاتف غير صالح"
+  }
+}
